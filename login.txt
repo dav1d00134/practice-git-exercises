@@ -1,2 +1,6 @@
 Login feature
 Username and password authentication
+
+Login validation
+- Username is required
+- Password is required
