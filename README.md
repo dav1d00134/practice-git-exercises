@@ -1,3 +1,3 @@
 Practicing git commands
 Beginner-level git exercises
-Learning purposes only
+Author: David Lejic - Version 2
