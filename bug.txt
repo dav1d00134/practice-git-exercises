@@ -1,2 +1,2 @@
 Bug: Login button does not work
-Status: Investigating
+Status: Fixed
